@@ -1,0 +1,43 @@
+﻿Enter number of input files: 6
+Enter 1. file name: a.txt
+Enter 2. file name: b.txt
+Enter 3. file name: c.txt
+Enter 4. file name: d.txt
+Enter 5. file name: e.txt
+Enter 6. file name: f.txt
+Enter queried words in one line: Capitol impoverished
+in Document a.txt, capitol found 2 times, impoverished found 1 times.
+in Document b.txt, capitol found 1 times, impoverished found 1 times.
+
+Enter number of input files: 6
+Enter 1. file name: a.txt
+Enter 2. file name: b.txt
+Enter 3. file name: c.txt
+Enter 4. file name: d.txt
+Enter 5. file name: e.txt
+Enter 6. file name: f.txt
+Enter queried words in one line: odds MAYOR
+in Document c.txt, odds found 1 times, mayor found 1 times.
+
+Enter number of input files: 6
+Enter 1. file name: a.txt
+Enter 2. file name: b.txt
+Enter 3. file name: c.txt
+Enter 4. file name: d.txt
+Enter 5. file name: e.txt
+Enter 6. file name: f.txt
+Enter queried words in one line: compliment omid
+No document contains the given query
+
+
+Enter number of input files: 6
+Enter 1. file name: a.txt
+Enter 2. file name: b.txt
+Enter 3. file name: c.txt
+Enter 4. file name: d.txt
+Enter 5. file name: e.txt
+Enter 6. file name: f.txt
+Enter queried words in one line: istanbul Ankara Izmir
+in Document a.txt, istanbul found 1 times, ankara found 1 times, izmir found 1 times.
+Press any key to continue . . .
+
